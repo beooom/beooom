@@ -8,7 +8,7 @@
 ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![csharp](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=for-the-badge)
 
-![beooom's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![beooom's GitHub stats](https://github-readme-stats.vercel.app/api?username=beooom&show_icons=true&theme=dracula)
 
 <!--
 **beooom/beooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
