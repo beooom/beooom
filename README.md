@@ -6,7 +6,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![csharp](https://img.shields.io/badge/c#-00599C.svg?)
+![csharp](c#-00599C.svg?)
 
 <!--
 **beooom/beooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
