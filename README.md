@@ -12,6 +12,7 @@
 ![csharp](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=for-the-badge)
 
 ### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![unity](https://img.shields.io/badge/unity-2C2255.svg?&style=for-the-badge&logo=unity&logoColor=white)
 
