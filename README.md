@@ -4,8 +4,8 @@
 
 ![unity](https://img.shields.io/badge/unity-2C2255.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c%20Studio&logoColor=white)
-![cplusplus](https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus%20Studio&logoColor=white)
+![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![csharp](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=csharp%20Studio&logoColor=white)
 
 <!--
